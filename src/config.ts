@@ -24,7 +24,7 @@ export interface AddOnService {
 export const STORE_INFO = {
   name: 'Laundry UMKM',
   appTitle: 'LaundryCalc',
-  whatsappNumber: '628xxxxxxxxxx',
+  whatsappNumber: '6281225141374',
   openingHours: '08:00 - 20:00 WIB',
   pickupHours: '09:00 - 17:00 WIB',
   pickupRadiusMaxKm: 5,
